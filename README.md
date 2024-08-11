@@ -1,4 +1,4 @@
-Weather Prediction Analysis Report
+# **Weather Prediction Analysis Report**
 This project involves the analysis and prediction of weather data from the WeatherAUS dataset, with a focus on predicting whether it will rain the next day (RainTomorrow). The analysis includes data exploration, cleaning, feature engineering, and the development of a machine learning model using a neural network to make predictions.
 
 1. Exploratory Data Analysis (EDA) and Data Cleaning
